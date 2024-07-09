@@ -82,6 +82,7 @@ namespace SensitivityTool
             var kek = (double)sensitivity * (originYaw / targetYaw) * (originTan / targetTan);
             return kek;
         }
+
     }
 
     public class GameSettings
@@ -103,7 +104,6 @@ namespace SensitivityTool
 
     public class Game
     {
-        [JsonPropertyName("yaw")]
         public double Yaw { get; set; }
 
         [JsonPropertyName("fovAffected")]
