@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SensitivityTool": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\sources\\SensitivityTool"
+    }
+  }
+}

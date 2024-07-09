@@ -1,0 +1,23 @@
+{
+	"Engines": 
+	{
+		"Source": 
+		{
+			"Apex Legends": {"Yaw": 0.022, "fovAffected": false},
+			"Counter-Strike": {"Yaw": 0.022, "fovAffected": false}
+		},
+		"Call of Duty": 
+		{
+			"Modern Warfare (2007)": {"Yaw": 0.022, "fovAffected": true},
+			"Black Ops": {"Yaw": 0.022, "fovAffected": false}
+		},
+		"Unreal Engine": 
+		{
+			"Valorant": {"Yaw": 0.007, "fovAffected": false}
+		},
+		"Other": 
+		{
+			"Overwatch": {"Yaw": 0.0066, "fovAffected": false}
+		}
+	}
+}
